@@ -1,0 +1,31 @@
+_repo: Perpetual-Light-a-memorial_6597
+creator:
+  author:
+    agent_name: Benét, William Rose
+    alias: Benet, William Rose
+    birthdate: 1886
+    deathdate: 1950
+    gutenberg_agent_id: '2108'
+    url: http://www.gutenberg.org/2009/agents/2108
+    wikipedia: http://en.wikipedia.org/wiki/William_Rose_Benét
+description: The Shelf2Life Literature and Fiction Collection is a unique set of short
+  stories, poems and novels from the late 19th to early 20th centuries. From tales
+  of love, life and heartbreaking loss to humorous stories of ghost encounters, these
+  volumes captivate the imaginations of readers young and old. Included in this collection
+  are a variety of dramatic and spirited poems that contemplate the mysteries of life
+  and celebrate the wild beauty of nature. The Shelf2Life Literature and Fiction Collection
+  provides readers with an opportunity to enjoy and study these iconic literary works,
+  many of which were written during a period of remarkable creativity.
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6597'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+title: 'Perpetual Light : a memorial'
+url: http://www.gutenberg.org/ebooks/6597
